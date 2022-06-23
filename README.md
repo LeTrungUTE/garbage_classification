@@ -5,3 +5,7 @@ SVTH: Lê Nguyễn Trung    MSSV: 19146024
 
 file " Colab_codeModelA_LeNguyenTrung_19146024.ipynb " là code huấn luyện model phân loại rác thải thuộc loại nào trong 12 loại thuộc tập dataset "inhput_garbage".
 file " Colab_codeModel_B_LeNguyenTrung_19146024.ipynb " là code huấn luyện model phân loại rác thải thuộc loại tái chế được hay không tái chế được.
+
+link dataset: 
++ Tập dữ liệu 12 loại rác: https://www.kaggle.com/datasets/lenguyentrung/inhput-garbage
++ Tập dữ liệu rác tái chế: https://www.kaggle.com/datasets/lenguyentrung/garbage-onr
